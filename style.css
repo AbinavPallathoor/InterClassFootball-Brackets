@@ -1,0 +1,100 @@
+body{
+    background-color: #ebebeb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bracket{
+    width: 300px;
+    height: 200px;
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sections{
+    display: flex;
+}
+
+.section-left{
+    height: 50px;
+    width: 50px;
+
+    float: left;
+    background-color: #c2c2c2;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.section-right{
+    height: 50px;
+    width: 50px;
+
+    float: right;
+    background-color: #c2c2c2;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.vs{
+    text-align: center;
+    background-color: #e3e3e3;
+}
+
+.winner{
+    background-color: #74ff94;
+}
+
+.winner{
+    background-color: #74ff94;
+}
+
+.looser{
+    background-color: #ff7474;
+}
+
+.details{
+    width: 80%;
+    height: 25px;
+    background-color: #484848;
+    color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+}
+
+.left{
+    float: left;
+}
+
+
+.right{
+    float: right;
+}
+
+.same-day{
+    width: 95%;
+    height: 260px;
+    background-color: #323232;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 260px;
+}
