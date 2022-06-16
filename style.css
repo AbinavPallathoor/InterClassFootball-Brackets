@@ -31,6 +31,14 @@ body{
     font-size: 70px;
 }
 
+.heading-2{
+    text-align: center;
+    color: #636363;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -20px;
+}
+
 .bracket{
     width: 300px;
     height: 200px;
